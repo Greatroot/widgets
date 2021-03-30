@@ -30,3 +30,5 @@ const Accordion = ( {items }) => {
 }
 
 export default Accordion;
+
+//en.wikipedia.org/w/api.php?action=query&list=search&format=json&srsearch=programming
